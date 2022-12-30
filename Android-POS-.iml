@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="com.ionob.pos" />
+      <sourceFolder url="file://$MODULE_DIR$/adater" isTestSource="false" packagePrefix="com.fitbae.fitness.adapter" />
+      <sourceFolder url="file://$MODULE_DIR$/print" isTestSource="false" packagePrefix="suman.com.andoirdbluetoothprint" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
